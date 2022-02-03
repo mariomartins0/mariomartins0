@@ -1,6 +1,6 @@
 ### Oiii! Eu sou o Mario Martins
 
-- 🌱 Desenvolvedor de HTML,CSS e Java Script
+- 🌱 Estudante de HTML e Java Script
 - 😄 Pronome ele/dele
 
 <div align="center">
